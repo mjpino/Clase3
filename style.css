@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+header{
+	width: 100%;
+	border-bottom: solid;
+}
+
+header h1 {
+	display: inline-block;
+	font-family: 'Merriweather', serif;
+}
+
+nav{
+	display: inline-block;
+	vertical-align: top;	
+    margin-top: 19px;	
+	margin-left: 57px;
+}
+
+nav li {
+	display: inline-block;
+	vertical-align: top;	
+}	
